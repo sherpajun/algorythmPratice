@@ -1,0 +1,2 @@
+# algorythmPratice
+Java and Python
